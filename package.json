@@ -1,0 +1,21 @@
+{
+  "name": "@eduotech/config",
+  "version": "0.0.0",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": "github:eduotech/config",
+  "license": "MIT",
+  "files": [
+    "prettier/",
+    "eslint/"
+  ],
+  "dependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.1.0"
+  }
+}
