@@ -1,7 +1,5 @@
 # `@eduotech/config` [![npm](https://img.shields.io/npm/v/@eduotech/config.svg?style=flat-square)](https://www.npmjs.com/package/@eduotech/config)
 
-Sharable configurations files for tools that I use.
-
 ## Usage
 
 ### [eslint](https://github.com/eslint/eslint)
