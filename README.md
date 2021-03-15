@@ -22,6 +22,10 @@ module.exports = {
 
 ### [prettier](https://github.com/prettier/prettier)
 
+```sh
+npm install prettier --save-dev
+```
+
 Use as is in your `prettier.config.js`.
 
 ```javascript
